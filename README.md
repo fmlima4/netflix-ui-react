@@ -1,4 +1,4 @@
-# Nome do projeto
+# Netflix-UI
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -12,7 +12,7 @@
 
 > Projeto feito para fixação de conhecimentos em ReactJS e CSS
 
-### Ajustes e melhorias
+### Ajustes e melhorias futuras
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -26,15 +26,17 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
+<!-- * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você leu `<guia / link / documentação_relacionada_ao_projeto>`. -->
+* node 
+* yarn
 
 ## 🚀 Instalando netflix-ui-react
 
 Para instalar o netflix-ui-react, siga estas etapas:
 
-Baixe o código fonte
+Baixe o código fonte ou clone esse repositorio
 ## ☕ Usando netflix-ui-react
 
 Para usar netflix-ui-react, siga estas etapas:
@@ -43,7 +45,7 @@ Para usar netflix-ui-react, siga estas etapas:
 instale o node
 eu gosto de usar o yarn 
 entao ao abrir o codigo de um yarn para baixar as dependencias nescessarias
-depois de um yarn start para rodar o projeto no localhost:3000
+depois use 'yarn start' para rodar o projeto no localhost:3000
 ```
 ## 📝 Licença
 
